@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmet0eray
+- 👋 Hi, I’m Ahmet Eray Erşahin
 - 👀 I’m interested in Cyber Security and Software Development.
 - 🌱 I’m currently learning Linux and Phyton.
 - 📫 Reach me through ahmeterayersahin5@gmail.com
